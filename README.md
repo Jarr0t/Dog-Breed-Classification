@@ -1,2 +1,5 @@
 # Dog-Breed-Classification
-Solution to the Kaggle competition for dog breed recognition using a neural network.
+
+Распознавание породы собаки с помощью изображения
+
+Ссылка на соревнование: https://www.kaggle.com/c/dog-breed-identification/overview
